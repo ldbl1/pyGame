@@ -1,7 +1,17 @@
-{"language":"sp_es",
-    "messages":{
-        "greeting": "¡Hola, querido investigador!",
+{
+    "language": "sp_es",
+    "messages": {
+        "greeting": "¡Hola, querido buscador!",
         "get_name": "Me recordarías tu nombre, ¿por favor?",
-        "choose_lang": "Elige el idioma del juego:"
-                ""}
+        "choose_lang": "Elige el idioma del juego:",
+        "choose_lang2": "Elige un idioma correcto para el juego:"
+    },
+    "menus": {
+        "main": {
+            "first": "1.- Configuracion"
+        },
+        "config": {
+            "language": "1.- Cambiar idioma"
+        }
+    }
 }
