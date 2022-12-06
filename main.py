@@ -13,7 +13,7 @@ configuracion = json.loads(config)
 defaultLanguage = configuracion['defaults']['language']
 
 if __name__ == '__main__':
-    cargando()
+    cargando(True)
 
     lang = choose_language(False,defaultLanguage)
     if (defaultLanguage!=lang):
@@ -24,5 +24,5 @@ if __name__ == '__main__':
     
     clear()
     cabecera()
-    titulo()    
-    menu()
+    titulo()   
+    menu(False)

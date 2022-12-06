@@ -1,0 +1,17 @@
+{
+    "language": "fr_fr",
+    "messages": {
+        "greeting": "Bonjour, ami chasseur ! ",
+        "get_name": "Pourriez-vous me rappeler votre nom, s'il vous plaît ? ",
+        "choose_lang": "Choisissez la langue du jeu : ",
+        "choose_lang2": "Choisissez la langue correct du jeu : "
+    },
+    "menus": {
+        "main": {
+            "first": "1.- Configuracion"
+        },
+        "config": {
+            "language": "1.- Cambiar idioma"
+        }
+    }
+}

@@ -8,10 +8,17 @@
     },
     "menus": {
         "main": {
-            "first": "1.- Configuracion"
+            "retry":"Elige una opción correcta",
+            "title":"Menú:",
+            "config": "1. Configuracion",
+            "exit":"2. Salir del juego"
         },
         "config": {
-            "language": "1.- Cambiar idioma"
-        }
+            "retry":"Elige una opción correcta",
+            "title":"Configuración",
+            "language": "1. Cambiar idioma",
+            "return": "2. Volver"
+        },
+        "exit": "¿Estás seguro de que quieres salir?"
     }
 }

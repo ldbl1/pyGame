@@ -1,7 +1,17 @@
-{"language":"en_uk",
-    "messages":{
+{
+    "language": "en_uk",
+    "messages": {
         "greeting": "Hello, fellow hunter!",
         "get_name": "Would you mind to remember me your name, please?",
         "choose_lang": "Choose game's language:",
-        "choose_lang2": "Choose a correct game's language"}
+        "choose_lang2": "Choose a correct game's language"
+    },
+    "menus": {
+        "main": {
+            "first": "1.- Configuracion"
+        },
+        "config": {
+            "language": "1.- Cambiar idioma"
+        }
+    }
 }
