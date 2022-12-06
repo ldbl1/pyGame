@@ -1,0 +1,6 @@
+{"language":"en_us",
+    "messages":{
+        "greeting": "Hello, fellow hunter!",
+        "get_name": "Would you mind to remember me your name, please?",
+        "choose_lang": "Choose game's language:"}
+}

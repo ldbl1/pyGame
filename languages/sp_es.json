@@ -1,0 +1,7 @@
+{"language":"sp_es",
+    "messages":{
+        "greeting": "¡Hola, querido investigador!",
+        "get_name": "Me recordarías tu nombre, ¿por favor?",
+        "choose_lang": "Elige el idioma del juego:"
+                ""}
+}
